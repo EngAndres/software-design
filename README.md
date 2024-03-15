@@ -1,2 +1,2 @@
-# software-design
-This is the repository of the course
+# Software Design
+This is the first workshop to save the course.
